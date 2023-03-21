@@ -109,15 +109,49 @@ h1 {
 
 
 /* pat */
+.pt_container1{background-color:
+    border-top: 1px;
+
+}
 
 
+h1{
+    color: black !important;
+    top: 97px; !important
+}
+.oval{
+    position: relative;
 
+}
 
+.icon{
+    position: relative;
+    top: calc();
+    right: -2rem;
+    bottom: 28px;
+}
 
+#ip2 {
+    border-radius: 25px;
+    border: 2px solid #;
+    padding: 20px; 
+    width: 200px;
+    height: 15px;   
 
+    #ip2 {
+        border-radius: 25px;
+        border: 2px solid #;
+        padding: 20px; 
+        width: 200px;
+        height: 15px; 
 
-
-
+        #ip2 {
+            border-radius: 25px;
+            border: 2px solid #;
+            padding: 20px; 
+            width: 200px;
+            height: 15px;   
+            
 
 
 
